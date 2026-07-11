@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://github.com/redmeet288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="redmeet288" height="30" width="40" /></a>
 
-<a href="https://t.me/sorewagule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/sorewagule" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/5bb49e285e9a81cea136ca4ca28bbef0f453963a/icons/telegram.svg#L1" alt="telegram" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/https://leetcode.com/u/reedmet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/reedmet/" height="30" width="40" /></a>
 
