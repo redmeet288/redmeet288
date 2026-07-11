@@ -9,8 +9,8 @@
 - How to reach me **Email: romanovivan07@gmai.com TG: @sorewagule**
 
 <h3 align="left">Connect with me:</h3>
-<div>
-  <p style="display: flex; gap: 10px; align-items: center; padding: 0;">
+
+<p style="display: flex; gap: 10px; align-items: center; padding: 0;">
   <a href="https://github.com/redmeet288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="redmeet288" height="30" width="40" /></a>
   
   
@@ -19,8 +19,8 @@
   <a href="https://leetcode.com/u/reedmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/reedmet/" height="30" width="40" /></a>
   
   <a href="https://discord.gg/735730261605482576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="735730261605482576" height="30" width="40" /></a>
-  </p>
-</div>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
